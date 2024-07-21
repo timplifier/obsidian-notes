@@ -2,4 +2,4 @@
 
 ## Visibility + No caching.
 
-`volatile` guarantees that changes made by one thread to a shared variable are visible to other threads. Variables that are not annotated with `volatile` are stored in thread’s local cache and changes might not be immediately reflected in the main memory. `volatile` ensures that every read and write operation on the variable is performed on the main memory.
+`volatile` guarantees that changes made by one thread to a shared variable are visible to other threads. Variables that are not annotated with `volatile` are stored in thread’s local cache and changes might not be immediately reflected in the main memory. `volatile` ensures that every read and write operation on the variable is performed on the main memory
