@@ -1,0 +1,8 @@
+###  Obsidian ###
+.obsidian
+.obsidian.vimrc
+temp/
+
+### Node ###
+node_modules
+package-lock.json
