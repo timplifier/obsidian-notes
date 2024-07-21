@@ -1,4 +1,4 @@
-Due to the [[Type erasure]], there is no general way to check whether an instance of generic type was created with a certain type argument at runtime. It is possible to make a check against an instance of star-projection
+Due to the [[Type Erasure]], there is no general way to check whether an instance of generic type was created with a certain type argument at runtime. It is possible to make a check against an instance of star-projection
 
 ```kotlin
 if (something is List<*>) {
