@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "e421bdb9e124b0ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c94a5eec690cf6e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "743ac38712007189",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "395856ce2a981f3a",
+    "type": "split",
+    "children": [
+      {
+        "id": "85844cd953c497b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c24a139a8ae70e60",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0b57ee4503835273",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f6f695fe8a87561c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 489.5
+  },
+  "right": {
+    "id": "0852aa904b4a3dde",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ebcb6ec42345b51",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "608b9e9787202caf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "11b3fdeca965c609",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0285ab722a216255",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "56f921719f56186c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "98da4af21fbe1447",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-importer:Open Importer": false
+    }
+  },
+  "active": "c24a139a8ae70e60",
+  "lastOpenFiles": [
+    "Android Development/Interview Questions/src/main/kotlin/corp/tbm/timplifier/development/interviewQuestions/threading/kotlinx-coroutines/Coroutine/Job/Job.md",
+    "Android Development/Interview Questions/src/main/kotlin/corp/tbm/timplifier/development/interviewQuestions/threading/kotlinx-coroutines/Coroutine/Job/SupervisorJob.md",
+    "Android Development/Interview Questions/src/main/kotlin/corp/tbm/timplifier/development/interviewQuestions/threading/kotlinx-coroutines/Coroutine/Job",
+    "Android Development/Interview Questions/src/main/kotlin/corp/tbm/timplifier/development/interviewQuestions/threading/kotlinx-coroutines/Coroutine/CoroutineContext/CoroutineContext.md",
+    "Android Development/Interview Questions/src/main/kotlin/corp/tbm/timplifier/development/interviewQuestions/threading/kotlinx-coroutines/Coroutine/CoroutineContext/Element.md",
+    "Android Development/Interview Questions/src/main/kotlin/corp/tbm/timplifier/development/interviewQuestions/threading/kotlinx-coroutines/Coroutine/CoroutineContext/Key.md",
+    "Android Development/Interview Questions/src/main/kotlin/corp/tbm/timplifier/development/interviewQuestions/threading/kotlinx-coroutines/Coroutine/CoroutineContext/Dispatcher/Dispatcher.md",
+    "Android Development/Interview Questions/src/main/kotlin/corp/tbm/timplifier/development/interviewQuestions/threading/kotlinx-coroutines/Coroutine/CoroutineContext/newSingleThreadContext.md",
+    "Android Development/Interview Questions/src/main/kotlin/corp/tbm/timplifier/development/interviewQuestions/threading/kotlinx-coroutines/Coroutine/CoroutineContext/Dispatcher/Unconfined.md",
+    "Android Development/Interview Questions/src/main/kotlin/corp/tbm/timplifier/development/interviewQuestions/threading/kotlinx-coroutines/Coroutine/CoroutineContext/Dispatcher/Default.md",
+    "Android Development/Interview Questions/src/main/kotlin/corp/tbm/timplifier/development/interviewQuestions/threading/kotlinx-coroutines/Coroutine/CoroutineContext/Dispatcher/IO.md",
+    "Android Development/Interview Questions/src/main/kotlin/corp/tbm/timplifier/development/interviewQuestions/threading/kotlinx-coroutines/Coroutine/CoroutineContext/Dispatcher/Main.md",
+    "Android Development/Interview Questions/src/main/kotlin/corp/tbm/timplifier/development/interviewQuestions/threading/kotlinx-coroutines/Coroutine/CoroutineContext/Dispatcher",
+    "Android Development/Interview Questions/src/main/kotlin/corp/tbm/timplifier/development/interviewQuestions/threading/kotlinx-coroutines/Mutex.md",
+    "Android Development/Interview Questions/src/main/kotlin/corp/tbm/timplifier/development/interviewQuestions/threading/kotlinx-coroutines/Coroutine/CoroutineScope/CoroutineScope.md",
+    "Android Development/Interview Questions/src/main/kotlin/corp/tbm/timplifier/development/interviewQuestions/threading/kotlinx-coroutines/Coroutine/CoroutineContext",
+    "Android Development/Interview Questions/src/main/kotlin/corp/tbm/timplifier/development/interviewQuestions/threading/kotlinx-coroutines/Coroutine/CoroutineScope",
+    "Android Development/Interview Questions/src/main/kotlin/corp/tbm/timplifier/development/interviewQuestions/threading/kotlinx-coroutines/Coroutine/builders/async.md",
+    "Android Development/Interview Questions/src/main/kotlin/corp/tbm/timplifier/development/interviewQuestions/threading/kotlinx-coroutines/Coroutine/builders/launch.md",
+    "Android Development/Interview Questions/src/main/kotlin/corp/tbm/timplifier/development/interviewQuestions/threading/kotlinx-coroutines/Coroutine/builders/Untitled",
+    "Android Development/Interview Questions/src/main/kotlin/corp/tbm/timplifier/development/interviewQuestions/threading/kotlinx-coroutines/Coroutine/Coroutine.md",
+    "Android Development/Interview Questions/src/main/kotlin/corp/tbm/timplifier/development/interviewQuestions/threading/kotlinx-coroutines/Coroutine/builders",
+    "Android Development/Interview Questions/src/main/kotlin/corp/tbm/timplifier/development/interviewQuestions/threading/kotlinx-coroutines/Coroutine",
+    "Android Development/Interview Questions/src/main/kotlin/corp/tbm/timplifier/development/interviewQuestions/threading/LockTypes/LockTypes.md",
+    "Android Development/Interview Questions/src/main/kotlin/corp/tbm/timplifier/development/interviewQuestions/threading/LockTypes/Deadlock.md",
+    "Android Development/Interview Questions/src/main/kotlin/corp/tbm/timplifier/development/interviewQuestions/threading/LockTypes/synchronized.md",
+    "Android Development/Interview Questions/src/main/kotlin/corp/tbm/timplifier/development/interviewQuestions/threading/LockTypes/Semaphore.md",
+    "Android Development/Interview Questions/src/main/kotlin/corp/tbm/timplifier/development/interviewQuestions/threading/LockTypes/ReentrantLock.md",
+    "Android Development/Interview Questions/src/main/kotlin/corp/tbm/timplifier/development/interviewQuestions/threading/LockTypes/ReadWriteLock.md",
+    "Android Development/Interview Questions/src/main/kotlin/corp/tbm/timplifier/development/interviewQuestions/threading/kotlinx-coroutines",
+    "Android Development/Interview Questions/src/main/kotlin/corp/tbm/timplifier/development/interviewQuestions/threading/LockTypes",
+    "Android Development/Interview Questions/src/main/kotlin/corp/tbm/timplifier/development/interviewQuestions/threading",
+    "Android Development/Interview Questions/src/main/kotlin/corp/tbm/timplifier/development/interviewQuestions/Generics/Generics.md",
+    "Android Development/Interview Questions/src/main/kotlin/corp/tbm/timplifier/development/interviewQuestions/Generics/Reified.md",
+    "Android Development/Interview Questions/src/main/kotlin/corp/tbm/timplifier/development/interviewQuestions/Generics/Type Erasure/TypeChecksAndCasts/TypeChecksAndCasts.md",
+    "Android Development/Interview Questions/src/main/kotlin/corp/tbm/timplifier/development/interviewQuestions/Generics/Type Erasure/TypeChecksAndCasts/UncheckedCast.md",
+    "Android Development/src/main/kotlin/corp/tbm/timplifier/development/interviewQuestions/foundation/oop/polymorphism/ddd.canvas"
+  ]
+}
