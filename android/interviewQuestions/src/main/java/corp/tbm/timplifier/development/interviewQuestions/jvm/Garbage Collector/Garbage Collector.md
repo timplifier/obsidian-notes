@@ -78,4 +78,4 @@ Important notes about `finalize()`.
 3. `finalize()` method is never invoked more than once for any [[Object]]
 4. `finalize()` ignores uncaught [[Exception]]. If `finalzie()` method throws [[Exception]], the [[Exception]] is ignored and thus doesn't affect GC process of memory deallocation.
 
-If you are not familiar with either [[Stack]] or [[Heap]],  feel free to check out [[Memory]].
+If you are not familiar with either [[Stack]] or [[Heap]],  feel free to check out [[Memory]]
