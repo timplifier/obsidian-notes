@@ -87,3 +87,5 @@ interface Java {
 String COMPANY = "Oracle";
 }
 ```
+
+`Strings` from the `String Pool` can't be destructed and collected by [[Garbage Collector]]
