@@ -13,8 +13,8 @@ ReferenceQueue<List<String>> listReferenceQueue = new ReferenceQueue<>();
 SoftReference<List<String>> listSoftReference = new SoftReference<>(list, listReferenceQueue);
 ```
 
-| Method name            |   Method description                                                                                                                                                                                   |
-| ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Method name            | Method description                                                                                                                                                                                     |
+| :--------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | `poll()`               | Polls this queue to see if a reference object is available. If one is available without further delay then it is removed from the queue and returned. Otherwise, this method immediately returns null. |
 | `remove()`             | Removes the next reference object in this queue, blocking until one becomes available.                                                                                                                 |
 | `remove(long TimeOut)` | Removes the next reference object in this queue, blocking until either one becomes available or the given timeout period expires.                                                                      |
