@@ -1,4 +1,4 @@
-A function that creates a new [[CoroutineContext]] with a single thread, therefore is confined to this single thread. It can be used like a [[Dispatcher]], however, predefined Dispatchers use some thread pool, whereas newSingleThreadContext creates the thread itself.
+A function that creates a new [[CoroutineContext]] with a single thread, therefore is confined to this single thread. It can be used like a [[Dispatcher]], however, predefined Dispatchers use some thread pool, whereas `newSingleThreadContext()` creates the thread itself.
 
 ```kotlin
 import kotlinx.coroutines.*
@@ -18,5 +18,5 @@ In many cases, you are able to achieve your goals using predefined Dispatchers, 
 
 ## Important Considerations
 
-- Creating a new single thread can be resource-intensive. `newSingleThreadContext` lifecycle is not managed automatically and has to be closed explicitly by using `close()` function.
-- newSingleThreadContext can introduce performance bottlenecks if overused
+- Creating a new single thread can be resource-intensive. `newSingleThreadContext()` lifecycle is not managed automatically and has to be closed explicitly by using `close()` function.
+- newSingleThreadContext can introduce performance bottlenecks if overused.

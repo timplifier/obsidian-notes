@@ -30,9 +30,8 @@ main runBlocking      : I'm working in thread main
 When any coroutine builder is used without parameters, it is going to inherit the [[CoroutineContext]] from the [[CoroutineScope]] it is being launched from.
 
 You can check out all the Dispatchers here:
-
-[[Main]]
-[[IO]]
-[[Default]]
-[[Unconfined]]
-[[newSingleThreadContext]]
+- [[Main]]
+- [[IO]]
+- [[Default]]
+- [[Unconfined]]
+- [[newSingleThreadContext]]
