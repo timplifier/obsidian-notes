@@ -5,3 +5,10 @@ There are essentially 4 types of references (in descending order):
 - [[SoftReference]]
 - [[WeakReference]]
 - [[PhantomReference]]
+
+```mermaid
+flowchart LR 
+StrongReference-->SoftReference
+SoftReference-->WeakReference
+WeakReference-->PhantomReference
+
