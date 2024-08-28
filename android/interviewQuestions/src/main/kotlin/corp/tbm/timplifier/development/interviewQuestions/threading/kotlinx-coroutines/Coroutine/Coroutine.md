@@ -32,4 +32,4 @@ Comparing `kotlinx-coroutines` to `RxJava`, the second doesn't follow the princi
 
 **Structured concurrency** ensures that launched coroutines are not lost and leaked. `CoroutineScope` cannot be complete until all the child coroutines complete. As we can see in our example, block is not completed until `"World!"` is printed and waits until it is completed and only then exits.
 
-## Scope Builder
+`kotlinx-coroutines` takes it to the whole new level by prohibiting start of new `Coroutines` outside of the `CoroutineScope`.

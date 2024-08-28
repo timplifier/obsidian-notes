@@ -1,4 +1,4 @@
-Is a typical Map where each type is represented as [[Element]] and has its own unique [[Key]]. CoroutineContext can be united using `plus` operator.
+Is a typical Map where each type is represented as [[Element]] and has its own unique [[Key]]. CoroutineContext can be merged using `plus` operator.
 
 ```mermaid
 classDiagram  
@@ -22,4 +22,4 @@ CoroutineContext1 .. CoroutineContext2
 CoroutineContext2 ..|> CoroutineSum
 ```
 
-Dispatchers are gonna be combined, values that have same [[Key]], gonna be taken from right. It is useful when you want to combine multiple [[Job]] instances
+Dispatchers are gonna be merged, values that have same [[Key]], gonna be taken from right. It is useful when you want to combine multiple [[Job]] instances
