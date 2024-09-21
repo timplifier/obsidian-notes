@@ -1,6 +1,9 @@
+## MacOSX
+**/.DS_STORE
 ###  Obsidian ###
 .obsidian
 .obsidian.vimrc
+export/
 temp/
 
 ### Node ###

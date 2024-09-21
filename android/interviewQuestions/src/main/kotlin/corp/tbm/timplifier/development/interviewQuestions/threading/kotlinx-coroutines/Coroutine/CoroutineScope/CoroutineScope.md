@@ -22,3 +22,6 @@ suspend fun doWorld() = coroutineScope {
     println("Hello")
 }
 ```
+
+## GlobalScope
+Scope that has lifecycle that is bound to the whole application itself. On the JVM, it is the main process and on the Android, it is the [[Application]] scope. It breaks the rules of [[Structured Concurrency]] but it was designed in earlier versions of kotlinx-coroutines where no one had any idea about [[Structured Concurrency]].
